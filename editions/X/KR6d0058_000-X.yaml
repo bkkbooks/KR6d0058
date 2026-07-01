@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6d0058/x/v1/juan/0
+seq: 0
+front:
+  text: 妙法蓮花經疏目次卷上序品第一方便品第二譬喻品第三信解品第四卷下藥草喻品第五授記品第六化城喻品第七五百弟子受記品第八授學無學人記品第九法師品第十見寶塔品第十一持品第十二安樂行品第十三踊出品第十四壽量品第十五分別功德品第十六隨喜功德品第十七法師功德品第十八常不輕品第十九如來神力品第二十屬累品第二十一藥王本事品第二十二妙音品第二十三觀世音品第二十四陀羅尼品第二十五妙莊嚴王品第二十六普賢菩薩勸發品第二十七
+  hash: sha256:a7a08d7ddf3b711a271c7d21105227f1f7bc0849afe5baacf34f6080ced64397
+  markers:
+  - {type: 其他, offset: 0, content: 妙法蓮花經疏目次, id: KR6d0058_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經疏
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X27/X27n0577.xml
+    old_id: X27n0577
+hash: sha256:fff02b9d7a914043de7760dfa5d95af60434a5e84f1ff39885da13c7e013f2ce
