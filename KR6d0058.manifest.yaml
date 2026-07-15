@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0058/v1
 canonical_location: https://kanripo.org/bkk/KR6d0058/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 法華經疏
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0058_000.yaml, hash: 'sha256:fff02b9d7a914043de7760dfa5d95af60434a5e84f1ff39885da13c7e013f2ce'}
-  - {seq: 1, filename: KR6d0058_001.yaml, hash: 'sha256:1acdc551f31d798dc124fa7d5f29ac81d4bc2c02e272535e5eafbd91ee71000c'}
-  - {seq: 2, filename: KR6d0058_002.yaml, hash: 'sha256:f8ae90fde12fad122139e871b6726686683917ee0e74b1ea9594df276246cd44'}
+  - {seq: 0, filename: KR6d0058_000.yaml, hash: 'sha256:917b36c36591ce7b8ae2bdb2646a8c6f04f3205f28168dcce053b6fcbd7e050b'}
+  - {seq: 1, filename: KR6d0058_001.yaml, hash: 'sha256:06f06b181a8b524c551d79dfab394352c04f42796a352c0117675e6d8074c7de'}
+  - {seq: 2, filename: KR6d0058_002.yaml, hash: 'sha256:f171ab7f02e77f1bbcb44e167c31abc4985a287f93e3594fd1e4146ab8337fc5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0058_000.markers.yaml, hash: 'sha256:2e60d69a7650414787427270dd86f2614b2f0dd47afba8fe2ff1e0de65a70282'}
-  - {seq: 1, role: markers, filename: assets/KR6d0058_001.markers.yaml, hash: 'sha256:f9e0edaa2d9e4695f4bd5ba7bce178bedc348b4326d5ea281ce25d08ff53bd8e'}
-  - {seq: 2, role: markers, filename: assets/KR6d0058_002.markers.yaml, hash: 'sha256:66a6043dfe5d5ac9e562b7b4158f599d7afb4a50588ec234d531e76f5e650a2b'}
+  - {seq: 0, role: markers, filename: assets/KR6d0058_000.markers.yaml, hash: 'sha256:8bc07d1bc9595b3d89d9215f81e40dc591ea076bfec0ffdb60e3b51a54380b5a'}
+  - {seq: 1, role: markers, filename: assets/KR6d0058_001.markers.yaml, hash: 'sha256:f3e8e2d97def4ae7e533f94f08d7701fa5aaf10a24493ef4e23025385e740501'}
+  - {seq: 2, role: markers, filename: assets/KR6d0058_002.markers.yaml, hash: 'sha256:bb5d26aeb6d45334e66dfd2aef521d0df45d243e850219e9f9ba4ec395058136'}
 table_of_contents:
 - ref:
     seq: 0
@@ -349,4 +349,7 @@ table_of_contents:
   label: 普賢菩薩勸發品第二十七
   type: mulu
   level: 1
-hash: sha256:a876c1ffa67a102acee5eb76a70f0ea0fbbdc793dc5fa0d08fa7271a5274f1e0
+hash: sha256:a0f0930b4101703e43d2fa7cd75eff98a8c70a1a1842d563e4834b8ac7cad0d8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
